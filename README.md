@@ -19,3 +19,4 @@ Hosted on localhost:3000, it is responsible for making api request and fetching 
 
 4-The index.js file
 It contains our javascript code for our API server which responds to an api request
+.
