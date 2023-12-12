@@ -19,4 +19,12 @@ Hosted on localhost:3000, it is responsible for making api request and fetching 
 
 4-The index.js file
 It contains our javascript code for our API server which responds to an api request
-.
+
+How to run the code
+1-Download the all the attached files and open up in Visual code studio
+2- Cd over to directory where files are kept and run the code "npm i" to install all the dependencies and packages
+3- Run index.js and server.js in two seprate folders .
+4-Go to localhost3000 on your browser to interact with the website.
+
+
+1
